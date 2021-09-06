@@ -226,6 +226,26 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanvariancetk`][@stdlib/stats/base/dnanvariancetk]: calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.
+-   [`@stdlib/stats/base/nanstdevtk`][@stdlib/stats/base/nanstdevtk]: calculate the standard deviation of a strided array ignoring NaN values and using a one-pass textbook algorithm.
+-   [`@stdlib/stats/base/nanvariance`][@stdlib/stats/base/nanvariance]: calculate the variance of a strided array ignoring NaN values.
+-   [`@stdlib/stats/base/snanvariancetk`][@stdlib/stats/base/snanvariancetk]: calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.
+-   [`@stdlib/stats/base/variancetk`][@stdlib/stats/base/variancetk]: calculate the variance of a strided array using a one-pass textbook algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -287,11 +307,22 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
+
+[@ling:1974a]: https://doi.org/10.2307/2286154
+
+<!-- <related-links> -->
+
 [@stdlib/stats/base/dnanvariancetk]: https://github.com/stdlib-js/stats-base-dnanvariancetk
+
+[@stdlib/stats/base/nanstdevtk]: https://github.com/stdlib-js/stats-base-nanstdevtk
+
+[@stdlib/stats/base/nanvariance]: https://github.com/stdlib-js/stats-base-nanvariance
 
 [@stdlib/stats/base/snanvariancetk]: https://github.com/stdlib-js/stats-base-snanvariancetk
 
-[@ling:1974a]: https://doi.org/10.2307/2286154
+[@stdlib/stats/base/variancetk]: https://github.com/stdlib-js/stats-base-variancetk
+
+<!-- </related-links> -->
 
 </section>
 
