@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-30)
+
+<section class="features">
+
+### Features
+
+-   [`14fc1c1`](https://github.com/stdlib-js/stdlib/commit/14fc1c13ef83b084e5715fcac023615d2d11a5c6) - refactor and add accessor protocol support to `stats/base/nanvariancetk` [(#6025)](https://github.com/stdlib-js/stdlib/pull/6025)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5676](https://github.com/stdlib-js/stdlib/issues/5676)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`14fc1c1`](https://github.com/stdlib-js/stdlib/commit/14fc1c13ef83b084e5715fcac023615d2d11a5c6) - **feat:** refactor and add accessor protocol support to `stats/base/nanvariancetk` [(#6025)](https://github.com/stdlib-js/stdlib/pull/6025) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`30114f2`](https://github.com/stdlib-js/stdlib/commit/30114f2fc3dc343319fe3a8d44ca022a7c4f6750) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   Prajjwal Bajpai
 
 </section>
 
