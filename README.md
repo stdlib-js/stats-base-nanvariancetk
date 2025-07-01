@@ -268,7 +268,7 @@ console.log( v );
 -   <span class="package-name">[`@stdlib/stats-base/nanstdevtk`][@stdlib/stats/base/nanstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanvariance`][@stdlib/stats/base/nanvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanvariancetk`][@stdlib/stats/base/snanvariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/variancetk`][@stdlib/stats/base/variancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/variancetk`][@stdlib/stats/strided/variancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a one-pass textbook algorithm.</span>
 
 </section>
 
@@ -366,7 +366,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/snanvariancetk]: https://github.com/stdlib-js/stats-base-snanvariancetk
 
-[@stdlib/stats/base/variancetk]: https://github.com/stdlib-js/stats-base-variancetk
+[@stdlib/stats/strided/variancetk]: https://github.com/stdlib-js/stats-strided-variancetk
 
 <!-- </related-links> -->
 
